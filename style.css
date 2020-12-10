@@ -1,0 +1,16 @@
+.header{
+    background-color: #00ffff;
+    display:flex;
+    justify-content: center;
+}
+
+.follow{
+    background-color: #00ffff;
+    display:flex;
+    justify-content: center;
+}
+
+.item{
+    background-color: #00ffff;
+    text-align: center;
+}
